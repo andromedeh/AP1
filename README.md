@@ -2,6 +2,7 @@
 >>> Repositório de estudos da disciplina de Algoritmo e Programação I
 
 Prova III Unidade: 
+
 Questão 1) A área de estacionamento de um campus é insuficiente. Assim, é necessário fazer um estudo para definir qual área necessária para atendar a demanda de vagas. Nos últimos 90 dias uteis, foi registrado o número de automóveis e o número de motocicletas que circularam em todos os turnos. Faça um programa que auxilia no controle de vagas com base no cálculo de medidas estatísticas para o estudo., ue contará com as seguintes funções:
     * cadastro: recebe, via teclado, os dados coletados em um turno e os armazena em dois vetores —
     automóveis emotocicletas (como será aplicado o mesmo tratamento para os dados, independente
